@@ -1,6 +1,11 @@
 // ==================================================
 // DEFINE FUNCTION(S)
 // ==================================================
+const sum = require("../01-unit/01-sum.js");
+const difference = require("../01-unit/02-difference.js");
+const multiply = require("../01-unit/03-product.js");
+const quotient = require("../01-unit/04-quotient.js");
+
 function calc() {
 
 }
