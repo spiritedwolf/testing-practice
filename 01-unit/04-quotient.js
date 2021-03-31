@@ -5,8 +5,10 @@ function quotient(num1 = 0, num2 = 1) {
   if (num2 ==0) {
     return "Error";
   }
+  else {
   total = num1 / num2;
-  return total
+  return total;
+  }
 }
 
 // ==================================================
